@@ -51,6 +51,10 @@ The app will run at:
 
 http://localhost:3000
 
+Live Hosted Frontend (Deployed on Vercel):
+https://student-management-system-sigma-woad.vercel.app/
+
+
 ## How It Works
 
 - The user can add student details (Name, Email, Age).
